@@ -1,0 +1,98 @@
+[
+  {
+    "id": "1",
+    "title": "Prepare presentation for conference",
+    "dueDate": "2024-09-01",
+    "priority": "high",
+    "completed": false,
+    "description": "Compile all the necessary data and insights for the quarterly report. Make sure to include the latest sales figures and customer feedback"
+  },
+  {
+    "id": "2",
+    "title": "Review and approve new designs",
+    "dueDate": "2024-08-20",
+    "priority": "medium",
+    "completed": false,
+    "description": "Review the new designs submitted by the team. Provide feedback and approval to move forward."
+  },
+  {
+    "id": "3",
+    "title": "Update project documentation",
+    "dueDate": "2024-08-10",
+    "priority": "medium",
+    "completed": false,
+    "description": "Ensure all project documentation is up to date with recent changes and additions. Distribute updated documents to the team."
+  },
+  {
+    "id": "4",
+    "title": "Create budget for next quarter",
+    "dueDate": "2024-09-05",
+    "priority": "medium",
+    "completed": false,
+    "description": "Develop a comprehensive budget plan for the next quarter. Include projections for revenue, expenses, and resource allocation."
+  },
+  {
+    "id": "5",
+    "title": "Analyze competitor products",
+    "dueDate": "2024-08-25",
+    "priority": "high",
+    "completed": false,
+    "description": "Conduct a thorough analysis of competitor products. Identify strengths, weaknesses, and opportunities for improvement."
+  },
+  {
+    "id": "6",
+    "title": "Conduct performance reviews",
+    "dueDate": "2024-08-30",
+    "priority": "high",
+    "completed": false,
+    "description": "Schedule and conduct performance reviews with team members. Provide feedback and set goals for the next review period."
+  },
+  {
+    "id": "7",
+    "title": "Develop new feature prototype",
+    "dueDate": "2024-08-22",
+    "priority": "high",
+    "completed": false,
+    "description": "Create a working prototype of the new feature. Test and refine based on initial user feedback."
+  },
+  {
+    "id": "8",
+    "title": "Organize customer feedback session",
+    "dueDate": "2024-09-10",
+    "priority": "medium",
+    "completed": false,
+    "description": "Plan and execute a session to gather feedback from customers. Use insights to inform future product development."
+  },
+  {
+    "id": "9",
+    "title": "Update website content",
+    "dueDate": "2024-08-12",
+    "priority": "low",
+    "completed": false,
+    "description": "Refresh website content to reflect the latest information and marketing messages. Ensure all links and resources are up to date."
+  },
+  {
+    "id": "10",
+    "title": "Coordinate with marketing team",
+    "dueDate": "2024-07-29",
+    "priority": "medium",
+    "completed": false,
+    "description": "Work with the marketing team to align on upcoming campaigns and promotional activities. Ensure consistency in messaging."
+  },
+  {
+    "id": "11",
+    "title": "Plan team-building event",
+    "dueDate": "2024-09-15",
+    "priority": "low",
+    "completed": false,
+    "description": "Organize a team-building event to enhance team cohesion and morale. Plan activities and logistics for the event."
+  },
+  {
+    "id": "12",
+    "title": "Conduct market research",
+    "dueDate": "2024-09-20",
+    "priority": "high",
+    "completed": false,
+    "description": "Perform in-depth market research to identify trends, customer preferences, and potential opportunities for new product development."
+  }
+]
